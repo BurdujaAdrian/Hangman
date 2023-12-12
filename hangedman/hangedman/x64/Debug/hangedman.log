@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\eu\Desktop\PC\Lab\hangedman\hangedman\main.cpp(36,9): warning C4101: 'level': unreferenced local variable
+  hangedman.vcxproj -> C:\Users\eu\Desktop\PC\Lab\hangedman\x64\Debug\hangedman.exe
